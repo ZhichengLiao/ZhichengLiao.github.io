@@ -22,7 +22,7 @@ repository               : "ZhichengLiao/ZhichengLiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Personal Photo.jpg"
+  avatar           : "images/Personal Photo.jpg"
   name             : "Zhicheng Liao"
   pronouns         : # example: "she/her"  
   bio              : " "
