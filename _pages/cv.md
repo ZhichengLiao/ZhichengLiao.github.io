@@ -6,59 +6,36 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=========
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.S. in Electrical Engineering with Computer science minor, University of Illinois Urbana Champaign (2023 - now)
+* B.S. in Electrical Engineering, Zhejiang Univeristy (2023 - now)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experience
+==========
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LLM researcher (RAG focused)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * Zhejiang University
+  * Duties: model applications and evaluations, prompts engineering optimaztion
+  * Supervisor: Hongwei Wang, vise dean in Zhejiang Univeristy
+  * 10/2024 - now
+* LLM researcher (Computer Vision focused)
+
+  * Shihushan Base, Zhejiang University
+  * Duties: Data processing and model environment maintances
+  * Supervisor: Yu Zhang, Professor in Control college, Zhejiang University
+  * 05/2024 -09/2024
+
+Competencies and tools
+======================
+
+* **Coding:** Python, C, C++, Java ...
+* **Tech Framework:** Pytorch, Scikit-learn, CUDA, PostgreSQL ...
+* **Developing tools:** Git, Linux, Docker, gdb, valgrind ...
+
+Projects
+========
